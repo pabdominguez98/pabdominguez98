@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Sibila**
 
-- 🌱 I’m currently learning **Python, React.js and C++**
+- 🌱 I’m currently learning **Kubernetes and Java Spring**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pabdominguez98](https://github.com/pabdominguez98)
 
