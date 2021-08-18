@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Node.js Mysql, MongoDB, PHP and Java**
 
-- 📫 How to reach me **pabdominguez@outlook.com**
+- 📫 How to reach me **dominguezpablo0998@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
