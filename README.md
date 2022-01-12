@@ -7,9 +7,11 @@
 
 - 🌱 I’m currently learning **Kubernetes and Nginx**
 
+- 🌱 CEO at [**CloudLand LLC**](https://cloudland.me)
+
 - 👨‍💻 All of my projects are available at [https://github.com/pabdominguez98](https://github.com/pabdominguez98)
 
-- 💬 Ask me about **Node.js Mysql, MongoDB, PHP and Java**
+- 💬 Ask me about **Node.js, Django, AWS, Mysql, MongoDB, PHP and Java**
 
 - 📫 How to reach me **dominguezpablo0998@gmail.com**
 
