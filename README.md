@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kubernetes and Nginx**
 
-- 🌱 CEO at [**CloudLand LLC**](https://cloudland.me)
+- �🇺🇸 CEO at [**CloudLand LLC**](https://cloudland.me)
 
 - 👨‍💻 All of my projects are available at [https://github.com/pabdominguez98](https://github.com/pabdominguez98)
 
