@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pabdominguez98&label=Profile%20views&color=0e75b6&style=flat" alt="pabdominguez98" /> </p>
 
-- 🔭 I’m currently working on **Sibila**
+- 🔭 I’m currently working on **Nginx services**
 
-- 🌱 I’m currently learning **Kubernetes and Java Spring**
+- 🌱 I’m currently learning **Kubernetes and Nginx**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pabdominguez98](https://github.com/pabdominguez98)
 
