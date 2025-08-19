@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo Dominguez</h1>
-<h3 align="center">Founder, Software Architect & Developer</h3>
+<h3 align="center">Founder & Software Architect</h3>
 
 ---
 
