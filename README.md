@@ -6,7 +6,7 @@
 ### 🚀 About Me
 - 🧑‍💻 Founder of **Sundays AI** – AI-powered consultancy & dev studio.  
 - 🖥 Founder & CEO of **Dupin Software** – SaaS platform for process automation & developer workflows.  
-- 💼 Former **Lead Architect at Genium**, designing scalable systems for global clients.  
+- 💼 **Lead Architect at Genium**, designing scalable systems for global clients.  
 - 🤝 Partner at **Collectorsum**, a global marketplace for certified numismatics.  
 - 🔭 Currently working on **Computer Vision, AI/ML pipelines, cloud-native architectures, and developer tooling**.  
 - ⚡ Passionate about **fintech, payment systems, blockchain/Web3, and scalable software ecosystems**.  
@@ -27,7 +27,7 @@
 ### 📈 Current Projects
 - 🔹 **Sundays AI** → First consultancy & dev studio built around AI.  
 - 🔹 **Dupin Software** → Developer platform with async workflows and high-reliability APIs.  
-- 🔹 **Traffic Group CV** → Vehicle detection, lane tracking, and automated analytics.  
+- 🔹 **Genium Projects** → Many projects.  
 - 🔹 **Collectorsum** → Scaling and branding a global numismatic marketplace.  
 
 ---
