@@ -15,7 +15,7 @@
 ---
 
 ### 🛠 Tech Stack & Focus Areas
-- **Languages:** JavaScript, TypeScript, Python, Solidity  
+- **Languages:** JavaScript, TypeScript, Python, Solidity, Java, PHP
 - **Frameworks & Tools:** Node.js, Express, FastAPI, React, Electron, Docker  
 - **Databases:** MySQL, PostgreSQL, MongoDB  
 - **Messaging & Infra:** RabbitMQ, AWS SQS, Temporal, distributed systems  
